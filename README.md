@@ -1,4 +1,4 @@
-Working Files for ryanrafiee.com
+A responsive Jekyll built theme
 =============================
 
 ## First things first
