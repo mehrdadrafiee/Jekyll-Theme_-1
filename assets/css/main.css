@@ -621,6 +621,12 @@ body {
     -webkit-transform: translateY(0%);
             transform: translateY(0%); } }
 
+.panel-heading {
+  height: 18em;
+  text-align: center; }
+  .panel-heading .panel-title {
+    font-size: 8em; }
+
 section.about {
   background-attachment: fixed;
   background-image: url(/assets/img/self.jpg);
